@@ -1,0 +1,47 @@
+### Variables 
+# Pays : Tchad
+# Code : Code pays ISO3 du Tchad
+# Année : de 1985 à 2020
+# nbre_deces_maternel : Nombre de décès maternels 
+
+# Source : OMS (Organisation mondiale de la santé), extraites en janvier 2025
+# Licence : CC-BY-4.0 @chadainetwork
+# Lien : https://github.com/Chad-AI-Network/Chadian-Data
+
+Pays,Code,Année,nbre_deces_maternel
+Tchad,TCD,1985,3479.0063
+Tchad,TCD,1986,3498.0537
+Tchad,TCD,1987,3904.1877
+Tchad,TCD,1988,4003.675
+Tchad,TCD,1989,4076.492
+Tchad,TCD,1990,4204.591
+Tchad,TCD,1991,4338.6943
+Tchad,TCD,1992,4635.9497
+Tchad,TCD,1993,4818.289
+Tchad,TCD,1994,4741.404
+Tchad,TCD,1995,4875.7163
+Tchad,TCD,1996,5090.4854
+Tchad,TCD,1997,5213.735
+Tchad,TCD,1998,5399.3994
+Tchad,TCD,1999,5601.1426
+Tchad,TCD,2000,5789.749
+Tchad,TCD,2001,5855.5303
+Tchad,TCD,2002,5731.0557
+Tchad,TCD,2003,5736.401
+Tchad,TCD,2004,5910.102
+Tchad,TCD,2005,6243.2676
+Tchad,TCD,2006,6486.3623
+Tchad,TCD,2007,6738.444
+Tchad,TCD,2008,6797.2314
+Tchad,TCD,2009,7369.5405
+Tchad,TCD,2010,7559.0244
+Tchad,TCD,2011,7641.6177
+Tchad,TCD,2012,7568.9194
+Tchad,TCD,2013,7621.241
+Tchad,TCD,2014,7343.404
+Tchad,TCD,2015,7393.697
+Tchad,TCD,2016,7593.7295
+Tchad,TCD,2017,7399.007
+Tchad,TCD,2018,7436.293
+Tchad,TCD,2019,7477.6997
+Tchad,TCD,2020,7763.501
