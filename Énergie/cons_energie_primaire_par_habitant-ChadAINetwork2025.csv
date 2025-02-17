@@ -1,0 +1,53 @@
+### Variables 
+# Pays : Tchad
+# Code : Code pays ISO3 du Tchad
+# Année : de 1980 à 2021
+# cons_energie_primaire_par_habitant : Consommation d'énergie primaire par habitant (kWh/personne)
+
+# Source : Banque Mondiale; données extraites en 2025
+# Licence : CC-BY-4.0 @chadainetwork
+# Lien : https://github.com/Chad-AI-Network/Chadian-Data
+
+Pays,Code,Année,cons_energie_primaire_par_habitant
+Tchad,TCD,1980,274.03653
+Tchad,TCD,1981,259.5652
+Tchad,TCD,1982,247.5716
+Tchad,TCD,1983,235.53018
+Tchad,TCD,1984,110.477
+Tchad,TCD,1985,133.38351
+Tchad,TCD,1986,223.6119
+Tchad,TCD,1987,191.76591
+Tchad,TCD,1988,112.62509
+Tchad,TCD,1989,119.4148
+Tchad,TCD,1990,243.53957
+Tchad,TCD,1991,229.64354
+Tchad,TCD,1992,220.75551
+Tchad,TCD,1993,103.54233
+Tchad,TCD,1994,110.72046
+Tchad,TCD,1995,105.96531
+Tchad,TCD,1996,101.65981
+Tchad,TCD,1997,106.112656
+Tchad,TCD,1998,102.55824
+Tchad,TCD,1999,99.053375
+Tchad,TCD,2000,124.966064
+Tchad,TCD,2001,116.015
+Tchad,TCD,2002,110.641914
+Tchad,TCD,2003,105.11012
+Tchad,TCD,2004,105.9355
+Tchad,TCD,2005,109.55552
+Tchad,TCD,2006,107.3414
+Tchad,TCD,2007,114.514046
+Tchad,TCD,2008,116.01666
+Tchad,TCD,2009,122.113625
+Tchad,TCD,2010,130.90942
+Tchad,TCD,2011,180.9343
+Tchad,TCD,2012,302.57126
+Tchad,TCD,2013,302.8611
+Tchad,TCD,2014,303.73856
+Tchad,TCD,2015,298.34583
+Tchad,TCD,2016,286.59064
+Tchad,TCD,2017,446.25546
+Tchad,TCD,2018,457.11847
+Tchad,TCD,2019,458.18085
+Tchad,TCD,2020,372.5109
+Tchad,TCD,2021,361.1612
